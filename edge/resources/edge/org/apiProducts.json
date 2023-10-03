@@ -1,0 +1,29 @@
+[
+    {
+        "name": "test-03101Product",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "test-03101Product"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "test-03101Product",
+        "displayName": "test-03101Product",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "test-03101"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
